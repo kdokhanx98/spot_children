@@ -15,7 +15,7 @@ import 'home.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
-  runApp(const MyApp());
+  runApp(MyApp());
 
   BackgroundFetch.registerHeadlessTask(backgroundFetchHeadlessTask);
 }
@@ -124,14 +124,28 @@ Future<Position> _determinePosition() async {
 
 
 class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
+
+  static const Map<int, Color> color =
+  {
+    50: Color.fromRGBO(4,131,184, .1),
+    100: Color.fromRGBO(4,131,184, .2),
+    200: Color.fromRGBO(4,131,184, .3),
+    300: Color.fromRGBO(4,131,184, .4),
+    400: Color.fromRGBO(4,131,184, .5),
+    500: Color.fromRGBO(4,131,184, .6),
+    600: Color.fromRGBO(4,131,184, .7),
+    700: Color.fromRGBO(4,131,184, .8),
+    800: Color.fromRGBO(4,131,184, .9),
+    900: Color.fromRGBO(4,131,184, 1),
+  };
+ static const MaterialColor myColor = MaterialColor(0xff016A5B, color);
 
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: myColor,
       ),
     home: Home(),
 

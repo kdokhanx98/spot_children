@@ -7,20 +7,12 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:784773230633:android:e0b8eb9ba79870274a2c38",
+        "mobilesdk_app_id": "1:784773230633:android:fc215a16ba4e397c4a2c38",
         "android_client_info": {
-          "package_name": "com.example.spoty"
+          "package_name": "com.child.spot"
         }
       },
       "oauth_client": [
-        {
-          "client_id": "784773230633-c35p5nqfv7bcjmmd8pppcasmrgg8p3or.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.spoty",
-            "certificate_hash": "643efba998ed6db976f5abaad651a3a75229292a"
-          }
-        },
         {
           "client_id": "784773230633-hg839s9dn1op5ia07psfnict614qsnrs.apps.googleusercontent.com",
           "client_type": 3
@@ -37,6 +29,13 @@
             {
               "client_id": "784773230633-hg839s9dn1op5ia07psfnict614qsnrs.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "784773230633-d7q6f9l2763pbrrtmr2ug53am1rn7j6d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.map.spoty"
+              }
             }
           ]
         }
@@ -74,6 +73,73 @@
             {
               "client_id": "784773230633-hg839s9dn1op5ia07psfnict614qsnrs.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "784773230633-d7q6f9l2763pbrrtmr2ug53am1rn7j6d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.map.spoty"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784773230633:android:8e0cd69e7d2a2ca84a2c38",
+        "android_client_info": {
+          "package_name": "com.map.spoty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784773230633-4t2m328c4b3j77riiit05tr53c5mf7dl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.map.spoty",
+            "certificate_hash": "643efba998ed6db976f5abaad651a3a75229292a"
+          }
+        },
+        {
+          "client_id": "784773230633-n6a89cl5l63dp4v9h1oju74um7iqiskg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.map.spoty",
+            "certificate_hash": "7b30a048fc7461fcf785795aa57de7c972b93704"
+          }
+        },
+        {
+          "client_id": "784773230633-thao8uuvl2ehc9shpht7da0cdqtuj5fn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.map.spoty",
+            "certificate_hash": "daecaea4e0d2f871307ab529781d88dc6d6ce954"
+          }
+        },
+        {
+          "client_id": "784773230633-hg839s9dn1op5ia07psfnict614qsnrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZQFzHec4hwMn3S2tILb_CbvwAkAJUCfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784773230633-hg839s9dn1op5ia07psfnict614qsnrs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "784773230633-d7q6f9l2763pbrrtmr2ug53am1rn7j6d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.map.spoty"
+              }
             }
           ]
         }

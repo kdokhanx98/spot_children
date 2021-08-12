@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.example.spoty_children",
+  "applicationId": "com.child.spot",
   "variantName": "processDebugResources",
   "elements": [
     {

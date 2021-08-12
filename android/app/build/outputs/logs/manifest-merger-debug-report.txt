@@ -72,7 +72,7 @@ INJECTED from D:\AndroidStudioProjects\spoty_children\android\app\src\debug\Andr
 INJECTED from D:\AndroidStudioProjects\spoty_children\android\app\src\debug\AndroidManifest.xml:1:1-11:12
 INJECTED from D:\AndroidStudioProjects\spoty_children\android\app\src\debug\AndroidManifest.xml:1:1-11:12
 	package
-		ADDED from D:\AndroidStudioProjects\spoty_children\android\app\src\main\AndroidManifest.xml:3:5-41
+		ADDED from D:\AndroidStudioProjects\spoty_children\android\app\src\main\AndroidManifest.xml:3:5-29
 		INJECTED from D:\AndroidStudioProjects\spoty_children\android\app\src\main\AndroidManifest.xml
 		INJECTED from D:\AndroidStudioProjects\spoty_children\android\app\src\debug\AndroidManifest.xml
 	android:versionName
@@ -203,12 +203,12 @@ MERGED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\MSI\.gradle\ca
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\80dc6a7f174481fe25dcedc41ed68001\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from D:\AndroidStudioProjects\spoty_children\android\app\src\main\AndroidManifest.xml:11:9-39
+		ADDED from D:\AndroidStudioProjects\spoty_children\android\app\src\main\AndroidManifest.xml:11:9-42
 	android:icon
 		ADDED from D:\AndroidStudioProjects\spoty_children\android\app\src\main\AndroidManifest.xml:12:9-43
 	tools:replace
 		ADDED from D:\AndroidStudioProjects\spoty_children\android\app\src\main\AndroidManifest.xml:10:9-38
-activity#com.example.spoty_children.MainActivity
+activity#com.child.spot.MainActivity
 ADDED from D:\AndroidStudioProjects\spoty_children\android\app\src\main\AndroidManifest.xml:13:9-42:20
 	android:launchMode
 		ADDED from D:\AndroidStudioProjects\spoty_children\android\app\src\main\AndroidManifest.xml:16:13-43

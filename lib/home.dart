@@ -110,6 +110,7 @@ class _HomeState extends State<Home> {
 
   @override
   Widget build(BuildContext context) {
+    const myColor = Color(0xff016A5B);
     return Scaffold(
       appBar: AppBar(
         title: const Text("Start Track"),
@@ -133,7 +134,7 @@ class _HomeState extends State<Home> {
                 child: Container(
                   decoration: const BoxDecoration(
                     borderRadius: BorderRadius.all(Radius.circular(10)),
-                    color: Colors.blueAccent,
+                    color: myColor,
                   ),
                   width: double.infinity,
                   alignment: Alignment.center,
@@ -211,7 +212,7 @@ class _HomeState extends State<Home> {
               child: Container(
                 decoration: const BoxDecoration(
                   borderRadius: BorderRadius.all(Radius.circular(10)),
-                  color: Colors.blueAccent,
+                  color: myColor,
                 ),
                 width: double.infinity,
                 alignment: Alignment.center,

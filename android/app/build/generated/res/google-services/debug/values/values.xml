@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">784773230633-hg839s9dn1op5ia07psfnict614qsnrs.apps.googleusercontent.com</string>
+    <string name="default_web_client_id" translatable="false">78477flutter run --no-sound-null-safety3230633-hg839s9dn1op5ia07psfnict614qsnrs.apps.googleusercontent.com</string>
     <string name="gcm_defaultSenderId" translatable="false">784773230633</string>
     <string name="google_api_key" translatable="false">AIzaSyAZQFzHec4hwMn3S2tILb_CbvwAkAJUCfM</string>
-    <string name="google_app_id" translatable="false">1:784773230633:android:06b1ccf67e2d79154a2c38</string>
+    <string name="google_app_id" translatable="false">1:784773230633:android:fc215a16ba4e397c4a2c38</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAZQFzHec4hwMn3S2tILb_CbvwAkAJUCfM</string>
     <string name="google_storage_bucket" translatable="false">sopty-339aa.appspot.com</string>
     <string name="project_id" translatable="false">sopty-339aa</string>
